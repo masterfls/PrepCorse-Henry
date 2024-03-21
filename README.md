@@ -1,2 +1,2 @@
 # PrepCorse-Henry
-this is a repository of module 2 of henry prepcourse
+this is a repository cloned from github a my repository local.
